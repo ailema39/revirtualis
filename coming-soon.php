@@ -10,7 +10,7 @@
     <meta name="author" content="Designzway Team"> 												<!--Change content-->						
 	<title>Revirtualis - Coming soon</title>															<!--Change title-->	        
     <link href="css/style_green.css?v=1" rel="stylesheet">                          		 			<!-- Stylesheet -->    
-	
+	<link rel="icon" type="image/x-icon" href="images/favicon.ico" />
 
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!--[if lt IE 9]>
