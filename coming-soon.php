@@ -26,7 +26,7 @@
 	<header class="coming-header">
 		<!-- Logo -->
         <div class="logo">
-            <a href="index.html">
+            <a href="#">
 				<div class="decorative-lines">	
 	            	<!-- Remove comments to choose image and add comment to h1 -->
 	            	<img class="logo-img" src="images/logo.png" alt="Revirtualis logo"/>	
