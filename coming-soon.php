@@ -9,7 +9,7 @@
     <meta name="keywords" content="HTML, LESS, CSS, JavaScript"> 								<!--Change content-->	
     <meta name="author" content="Designzway Team"> 												<!--Change content-->						
 	<title>Revirtualis - Coming soon</title>															<!--Change title-->	        
-    <link href="css/style_green.css?v=1" rel="stylesheet">                          		 			<!-- Stylesheet -->    
+    <link href="css/style_green.css?v=2" rel="stylesheet">                          		 			<!-- Stylesheet -->    
 	<link rel="icon" type="image/x-icon" href="images/favicon.ico" />
 
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -29,7 +29,7 @@
             <a href="index.html">
 				<div class="decorative-lines">	
 	            	<!-- Remove comments to choose image and add comment to h1 -->
-	            	<img class="logo-img" src="images/logo.png" alt="Appic logo"/>	
+	            	<img class="logo-img" src="images/logo.png" alt="Revirtualis logo"/>	
 	                <!--<h1 class="logo-text">re<span class="text-highlight">virtualis</span></h1>-->	
 				</div>	
             </a>
@@ -97,7 +97,7 @@
 	</section>
 	<!-- End main content -->
 
-	<?php include '/include/footer.php'; ?>
+	<?php include '/include/coming-soon/footer.php'; ?>
 </div>
 
 <!--End wrapper -->

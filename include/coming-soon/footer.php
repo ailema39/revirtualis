@@ -1,7 +1,7 @@
 <!--Begin footer -->
 	<footer class="footer-wrapper coming-footer-wrapper">
 		<!--Begin footer widget-->
-		<div class="container footer-widgets">
+		<div class="container footer-widgets" style="display:none;">
 			<div class="row">
 				<div class="col-sm-6 col-md-3 widget-news">
 					<h3 class="widget-title">Contact us</h3>
@@ -56,11 +56,11 @@
 		<!--Begin footer secondary -->
 		<div class="footer-secondary">
 
-            <div class="divider-circle"></div>
+            <div class="divider-circle" style="display: none;"></div>
 
 			<div class="container">
 				<div class="copyright copyright--centered">
-		        	<small class="small">&copy; REVERTUALIS, 2015. All rights reserved. <a href="#">Done by Spooktech</a></small>
+		        	<small class="small">&copy; REVERTUALIS, 2015. All rights reserved. <a href="#" style="display: none;">Done by Spooktech</a></small>
 		        </div>
 			</div>
 		</div>

@@ -10,7 +10,7 @@
 <body>
 
 <?php
-$email_to = "ailema39@gmail.com";
+$email_to = "info@revirtualis.com";
 $email = $_POST["input-email"];
 $text = "Email: $email";
 $headers = "MIME-Version: 1.0" . "\r\n"; 

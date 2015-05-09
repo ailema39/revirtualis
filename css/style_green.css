@@ -3825,8 +3825,7 @@ TABLE OF CONTENT
   background: #212c43;
 }
 .logo {
-  padding-top: 22px;
-  padding-left: 2px;
+  padding: 0;
 }
 .logo-text {
   margin-top: -5px;
@@ -3835,7 +3834,8 @@ TABLE OF CONTENT
   text-transform: uppercase;
 }
 .logo-img {
-  margin-bottom: 26px;
+  margin-top: 10px;
+  height: 60px;
 }
 #navigation-box {
   padding: 0;
@@ -6680,8 +6680,8 @@ a.custom-tooltip:hover {
   border: none;
 }
 .coming-header {
-  padding-top: 26px;
-  padding-bottom: 18px;
+  padding-top: 60px;
+  padding-bottom: 5px;
   text-align: center;
   background: #212c43;
 }
