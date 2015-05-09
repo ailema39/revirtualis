@@ -3590,8 +3590,8 @@ input[type="search"] {
   display: block;
   height: 12px;
   width: 100%;
-  border-top: 2px solid rgba(144, 211, 79, 0.2);
-  border-bottom: 2px solid rgba(144, 211, 79, 0.2);
+  border-top: 2px solid rgba(144, 211, 79, 0.18);
+  border-bottom: 2px solid rgba(144, 211, 79, 0.18);
 }
 .decorative-lines:before {
   top: 3px;
@@ -6695,6 +6695,7 @@ a.custom-tooltip:hover {
   margin-top: -29px;
   margin-bottom: 30px;
   height: 85px;
+  z-index:2;
 }
 .coming-content {
   padding-top: 64px;
@@ -6738,6 +6739,7 @@ a.custom-tooltip:hover {
   position: relative;
   display: inline-block;
   margin: 0 10px 20px 10px;
+  background: white;
 }
 .counters .timer-bg {
   position: absolute;
