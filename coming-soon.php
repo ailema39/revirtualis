@@ -85,8 +85,8 @@
 	        <h3 class="section-title-simple">Subscribe to get notified when we launch:</h3>
 
 			<!-- Begin subscribe form -->
-	        <form class="subscribe-form subscribe-form--simple" id="subscribe-form" name="subscribe-form" method="post" action="getEmail.php" novalidate>
-	            <input class="subscribe-input" id="input-email" name="input-email" type="email" placeholder="your email here">
+	        <form class="subscribe-form subscribe-form--simple" id="subscribe-form" name="subscribe-form" method="post" action="getEmail.php" novalidate >
+	            <input class="subscribe-input" id="input-email" name="input-email" type="email" placeholder="your email here"/>
 	            <button class="submit-button" id="submit-button" type="submit">
 	                <i class="icon-circle icon-circle--thin fa fa-arrow-right"></i>
 	            </button>
