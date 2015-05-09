@@ -6695,6 +6695,7 @@ a.custom-tooltip:hover {
   margin-top: -29px;
   margin-bottom: 30px;
   height: 85px;
+  position: relative;
   z-index:2;
 }
 .coming-content {
