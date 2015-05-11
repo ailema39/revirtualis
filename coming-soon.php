@@ -78,7 +78,7 @@
 		<!-- End counters -->
 
 		<div class="container">
-	        <p class="coming-text">Revitualis is a firm with global reach founded in 2014 with experience developing in a wide range of languages for different industries  and a wide variety of software solutions that go from e-commerce web sites to web based applications using 3D technology.</p> 
+	        <p class="coming-text">Revirtualis is a firm with global reach founded in 2014 with experience developing in a wide range of languages for different industries  and a wide variety of software solutions that go from e-commerce web sites to web based applications using 3D technology.</p> 
 
 	        <div class="divider-triangle divider-triangle--thin"></div>
 

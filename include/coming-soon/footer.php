@@ -60,7 +60,7 @@
 
 			<div class="container">
 				<div class="copyright copyright--centered">
-		        	<small class="small">&copy; REVERTUALIS, 2015. All rights reserved. <a href="#" style="display: none;">Done by Spooktech</a></small>
+		        	<small class="small">&copy; REVIRTUALIS, 2015. All rights reserved. <a href="#" style="display: none;">Done by Spooktech</a></small>
 		        </div>
 			</div>
 		</div>
